@@ -1,7 +1,7 @@
 # Hi there, I'm Vamsi! 👋
 
 ## 📫 Reach me
-- LinkedIn: [Vamsi Thokala]([www.linkedin.com/in/vamsi-thokala](https://www.linkedin.com/in/vamsi-thokala/))
+- LinkedIn: [Vamsi Thokala](https://www.linkedin.com/in/vamsi-thokala)
 
 I'm a Data Scientist| ML Engineer from Norman Ok. I'm passionate about "Curiosity & Problem Solving","latest techniques","math and logic behind algorithms","mastering tools","Passion for visualizing","ethical implications".
 
