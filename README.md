@@ -1,3 +1,4 @@
+![logo](https://github.com/themagicalthings/themagicalthings/blob/main/Black%20Technology%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Vamsi Thokala</h1>
 <h3 align="center">Data Scientist | ML Engineer from Norman, OK</h3>
 <h4 align="center">Passionate about Curiosity & Problem Solving, Latest Techniques, the Math and Logic Behind Algorithms, Mastering Tools, Visualizing, and Ethical Implications.</h4>
