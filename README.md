@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vamsi Thokala</h1>
 <h3 align="center">I'm a Data Scientist| ML Engineer from Norman Ok. I'm passionate about "Curiosity & Problem Solving","latest techniques","math and logic behind algorithms","mastering tools","Passion for visualizing","ethical implications".</h3>
-<img align="right" alt="coding"width="300" src="https://uploads-ssl.webflow.com/5c19100c2b50073e6ee69da1/60d35967a853a1b14851703b_All%20the%20data%20(1).gif">
+<img align="right" alt="coding"width="200" src="https://uploads-ssl.webflow.com/5c19100c2b50073e6ee69da1/60d35967a853a1b14851703b_All%20the%20data%20(1).gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=themagicalthings&label=Profile%20views&color=0e75b6&style=flat" alt="themagicalthings" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=themagicalthings" alt="themagicalthings" /></a> </p>
