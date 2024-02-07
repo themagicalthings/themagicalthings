@@ -1,4 +1,4 @@
-![logo](https://github.com/themagicalthings/themagicalthings/blob/main/data-scientist-word-banner-vector.png)
+![logo]()
 <h1 align="center">Hi 👋, I'm Vamsi Thokala</h1>
 <h3 align="center">Data Engineer </h3>
 <h4 align="center">Curiosity & Problem Solving, Latest Techniques,Math and Logic Behind Algorithms, Master Tools, Visualizing, and Ethical Implications.</h4>
