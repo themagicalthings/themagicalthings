@@ -22,7 +22,7 @@
 
 <h4 align="left">📫 How to reach me:</h4>
 
-thevamsithokala@gmail.com
+thevamsithokala@outlook.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
