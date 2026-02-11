@@ -4,12 +4,7 @@
 <h4 align="center">Curiosity & Problem Solving, Latest Techniques,Math and Logic Behind Algorithms, Master Tools, Visualizing, and Ethical Implications.</h4>
 <h4 align="left">🌱 In progress :</h4>
 
-- Reinforcement Learning
-- Generative Adversarial Networks (GANs)
-- Explainable AI (XAI)
-- Architectures like T5, GPT-3, and other advancements
-- 3D Object Detection and Tracking
-- Genomic Data Analysis
+- Gen-AI Program.
 
 
 <img align="right" alt="coding" width="300" src="https://uploads-ssl.webflow.com/5c19100c2b50073e6ee69da1/60d35967a853a1b14851703b_All%20the%20data%20(1).gif">
