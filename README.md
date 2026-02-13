@@ -4,7 +4,7 @@
 <h4 align="center"> </h4>
 <h4 align="left">🌱 In progress :</h4>
 
-- Gen-AI Program.
+- Generative AI Application development.
 
 
 <img align="right" alt="coding" width="300" src="https://uploads-ssl.webflow.com/5c19100c2b50073e6ee69da1/60d35967a853a1b14851703b_All%20the%20data%20(1).gif">
