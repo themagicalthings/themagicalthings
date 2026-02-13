@@ -1,4 +1,4 @@
-![logo](profile.png)
+![logo](.png)
 <h1 align="center">Hi 👋, I'm Vamsi Thokala</h1>
 <h3 align="center">Cloud Data Engineer </h3>
 <h4 align="center"> </h4>
