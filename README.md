@@ -1,7 +1,7 @@
 ![logo]()
 <h1 align="center">Hi 👋, I'm Vamsi Thokala</h1>
 <h3 align="center">Data Engineer </h3>
-<h4 align="center">Clouf </h4>
+<h4 align="center">Cloud </h4>
 <h4 align="left">🌱 In progress :</h4>
 
 - Gen-AI Program.
